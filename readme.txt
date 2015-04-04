@@ -20,6 +20,15 @@ This plugin generates necessary social meta tags for every pages you have in you
 
 Mostly WP Social Meta Plugin improves your website profile over internet.
 
+1. Improve your website’s social profile over social networking websites.
+1. Grab content on social network for every wordpress page.
+1. Populate your website and content on social networks and grab more traffics
+1. Easy interface in every page to put meta tag information.
+1. Custom Settings page for home social meta.
+1. Upload meta banner image with media uploader.
+1. Works for Facebook, Twitter, Google+, Pinterest LinkedIn and other social network.
+1. Easy installation and working on.
+
 == Installation ==
 
 1. Upload `wp-social-meta` to the `/wp-content/plugins/` directory
@@ -43,12 +52,12 @@ Mostly WP Social Meta Plugin improves your website profile over internet.
 = 1.0 =
 * Just started here.
 
-== Arbitrary section ==
+== Additional Features ==
 
 
-== A brief Markdown Example ==
+== See below some features of this plugin ==
 
-Ordered list:
+Feature list:
 
 1. Improve your website’s social profile over social networking websites.
 1. Grab content on social network for every wordpress page.
