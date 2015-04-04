@@ -8,7 +8,7 @@ Stable tag: 4.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Today social networking is a great way to increase traffic to your website. Almost everybody having some sort of social accounts whether it be on Facebook, Twitter, Google+ or many of the other social networks that are available. The use of Social networks in SEO is already important as you can now create Facebook, Twitter and Google+ pages for your business helping to target local customers and drive traffic from the networks to your website.
+WP Social Meta generates/adds necessary social meta tags for every pages and posts. It increase traffic to your website through social networks.
 
 == Description ==
 
@@ -30,13 +30,13 @@ Mostly WP Social Meta Plugin improves your website profile over internet.
 
 == Screenshots ==
 
-1. The screenshot description corresponds to screenshot-1.jpeg.
-2. The screenshot description corresponds to screenshot-2.jpeg.
-3. The screenshot description corresponds to screenshot-3.jpeg.
-3. The screenshot description corresponds to screenshot-4.jpeg.
-3. The screenshot description corresponds to screenshot-5.jpeg.
-3. The screenshot description corresponds to screenshot-6.jpeg.
-3. The screenshot description corresponds to screenshot-7.png.
+1. Facebook preview using wp-social-meta plugin.
+2. Google plus preview using wp-social-meta plugin.
+3. Twitter preview using wp-social-meta plugin.
+4. Add social meta information from WordPress dashboard in post or in page.
+5. Add default social meta information in WordPress dashboard WP Social Meta settings.
+6. Getting social meta when posting on Facebook.
+7. Google plus social meta preview.
 
 == Changelog ==
 
