@@ -196,7 +196,7 @@ function wpsm_display_settings() {
 
             <form method="post" name="options" action="options.php">
 
-            <h2> WP Social Meta Settings</h2><em>If your website home is not a single page or your website home is a blog consisting of posts, then you need to fill the following meta informations for your home page.</em>' . wp_nonce_field('update-options') . '
+            <h2> WP Social Meta Settings</h2><em>If your website home is not a single page or your website home is a blog consisting of posts, then you need to fill the following meta informations for your home page.</em><br /><br /><a href="http://wpsmartsecurity.com/" target="_blank"><img src="http://bitset.org/ad-1.jpg" alt="WP Smart Security" /></a>' . wp_nonce_field('update-options') . '
             <table width="100%" cellpadding="10" class="form-table">
                 
                 <tr>
